@@ -1,8 +1,8 @@
 export GITACCOUNT=blockzhou
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing33
 export KUBECONFIG=
 
-export NAMESPACE=
+export NAMESPACE=zhou-cluster
 export EMAIL=1436129831@qq.com
 export INGRESS=
